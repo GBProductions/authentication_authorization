@@ -1,6 +1,6 @@
 class AddUsers < ActiveRecord::Migration[5.2]
   def change
-    create-table :users do |t|
+    create_table :users do |t|
       t.column :email, :string
       t.column :password_hash, :string
       t.column :password_salt, :string
