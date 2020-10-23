@@ -1,24 +1,43 @@
-# README
+# _Basic Portfolio Site_
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### _A basic portfolio website._, 23rd October 2020_
 
-Things you may want to cover:
+#### By _**Garrett Brown**_
 
-* Ruby version
+## Description
 
-* System dependencies
+_A basic portfolio website that can accomadate both users and administrators._
 
-* Configuration
+## Setup/Installation Requirements
 
-* Database creation
+* _Make sure you have the latest version of your favorite browser._
+* _Clone the "authentication_authorization" repositroy from GitHub to your computer by typing in "git clone https://github.com/GBProductions/authentication_authorization.git" into the command line._
+* _Navigate to the root directory of the project in the terminal and type "code . " to view project in an editor like VS Code._
+* _Run "gem install bundler" in command line to install bundler._
+* _Run "bundle install."_
+* _To run server, type "ruby app.rb" into Terminal._
+* _Go to your browser, and type "localhost:3000" into the address bar._
 
-* Database initialization
+## Known Bugs
 
-* How to run the test suite
+_No known bugs at this time._
 
-* Services (job queues, cache servers, search engines, etc.)
+## Support and contact details
 
-* Deployment instructions
+_For support, contact Garrett brown at <garrettpaulbrown@gmail.com>_
 
-* ...
+## Technologies Used
+
+* _VS Code_
+* _Ruby_
+* _GitHub_
+* _Ruby on Rails_
+* _Rspec_
+* _ActiveRecord_
+* _SimpleCov_
+
+### License
+
+*Available under the MIT License.*
+
+Copyright (c) 2020 **_Garrett Brown_**
