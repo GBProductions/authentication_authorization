@@ -6,7 +6,13 @@
 
 ## Description
 
-_A basic portfolio website that can accomadate both users and administrators._
+_A basic portfolio website that can accomadate both users and administrators.
+
+As an admin, I should be able to log in and log out of the application.
+As an admin, I should be able to add, update and delete projects.
+As an admin, I should be able to add posts.
+As an admin, I want to ensure that other users don't have access to CRUD functionality.
+As a user, I want to be able to create an account and add a comment to a post. (A post can have many comments.) This is the only CRUD functionality a user can have._
 
 ## Setup/Installation Requirements
 
